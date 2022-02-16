@@ -1,0 +1,10 @@
+console.log("````````````````````````````````");
+var found = true;
+var grade = 86.8;
+var firstName = "Manish";
+var lastName = "Kumar";
+console.log("is found: " + found);
+console.log("the grade is: " + grade);
+console.log("first name is: " + firstName);
+console.log("last name is: " + lastName);
+console.log("hi ".concat(firstName, " ").concat(lastName));
